@@ -9,7 +9,7 @@ usort($sites, function($a, $b) {
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Health Record Me | A directory of direct links to download your health record.</title>
+	<title>Medical Data Me | A directory of direct links to download your health record.</title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -53,7 +53,7 @@ usort($sites, function($a, $b) {
 	<div id="fb-root"></div>
 
 	<header>
-		<h1>health<span>record</span>.me</h1>
+		<h1>medical<span>data</span>.me</h1>
 		<p class="tagline">A directory of direct links to download your health record.</p>
 	</header>
 
@@ -96,8 +96,8 @@ usort($sites, function($a, $b) {
 
 			<div class="info-block-half">
 				<h2>What is this?</h2>
-				<p>Health records made available to patients by health care providers are often difficult or impossible to download. HealthRecord.me aims to be a directory of links to enable you to easily download your health record from your healthcare provider(s).</p>
-				<p>Got a provider you think should be added? <a href="https://github.com/thetylerhayes/healthrecord.me">Fork the project on GitHub</a> or <A HREF="mailto:tyler@stayinyourprime.com">email Tyler</a>.</p>
+				<p>Health records made available to patients by health care providers are often difficult or impossible to download. MedicalData.me aims to be a directory of links to enable you to easily download your health record from your healthcare provider(s).</p>
+				<p>Got a provider you think should be added? <a href="https://github.com/thetylerhayes/medicaldata.me">Fork the project on GitHub</a> or <A HREF="mailto:tyler@stayinyourprime.com">email Tyler</a>.</p>
 				<ul>
 					<li><a href="https://hackpad.com/Can-you-download-your-health-record-DN76Z4LXgnB" target="_blank">Check out the original crowdsourced hackpad &raquo;</a></li>
 					<li><a href="http://chartbeat.com" target="_blank">See current site traffic &raquo;</a></li>
@@ -118,10 +118,10 @@ usort($sites, function($a, $b) {
 				<span>Project code originally written by <a href="http://robblewis.me">Robb Lewis</a> | Designed by <a href="http://edpoole.me">Ed Poole</a> | This site forked by from <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> by <a href="http://madebytyler.com">Tyler Hayes</a></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
-					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://healthrecord.me">Tweet</a>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://medicaldata.me">Tweet</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 				<!-- Facebook -->
-					<div class="fb-like" data-href="http://healthrecord.me" data-width="450" data-colorscheme="dark" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+					<div class="fb-like" data-href="http://medicaldata.me" data-width="450" data-colorscheme="dark" data-layout="button_count" data-show-faces="false" data-send="false"></div>
 
 				</div>
 			</footer>
