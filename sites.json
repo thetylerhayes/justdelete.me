@@ -1,672 +1,2537 @@
 [
 
 	{
-		"name" : "Twitter",
-		"url" : "https://twitter.com/settings/accounts/confirm_deactivation",
-		"difficulty" : "easy"
+		"name" : "Aetna",
+		"url" : "https://member.aetna.com/appConfig/login/login.fcc",
+		"format" : "bluebutton",
+		"notes" : "Patient portal software: proprietary"
 	},
 
 	{
-		"name" : "Wikipedia",
-		"url" : "https://en.wikipedia.org/wiki/Wikipedia:FAQ#How_do_I_change_my_username.2Fdelete_my_account.3F",
-		"difficulty" : "impossible",
-		"notes": "'A username cannot be deleted.' However, they do have some suggestions."
-	},
-	
-	{
-		"name" : "App.net",
-		"url" : "https://account.app.net/settings/delete/",
-		"difficulty" : "easy"
+		"name" : "TriCare",
+		"url" : "https://www.tricareonline.com/portal/page/portal/TricareOnline/Portal",
+		"format" : "bluebutton",
+		"notes" : "Patient portal software: proprietary"
 	},
 
 	{
-		"name" : "Skype",
-		"url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
-		"difficulty" : "hard",
-		"notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address."
+		"name" : "Veterans Administration",
+		"url" : "http://%20https//www.myhealth.va.gov/index.html",
+		"format" : "bluebutton",
+		"notes" : "Patient portal software: proprietary"
 	},
 
 	{
-		"name" : "GitHub",
-		"url" : "https://github.com/settings/admin",
-		"difficulty" : "easy"
+		"name" : "Cerner",
+		"url" : "https://cernerhealth.com/",
+		"format" : "ccda",
+		"notes" : "Patient portal software: proprietary"
 	},
 
 	{
-		"name" : "Facebook",
-		"url" : "https://www.facebook.com/help/delete_account?rdrhc",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "iTunes / Apple ID",
-		"url" : "http://www.apple.com/support/itunes/contact/",
-		"difficulty" : "hard",
-		"notes" : "Contact customer services. You will lose access to any media you haven’t downloaded to your computer."
-	},
-
-	{
-		"name" : "Medium",
-		"url" : "https://medium.com/me/settings",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "LinkedIn",
-		"url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Hotmail",
-		"url" : "https://mail.live.com/mail/CloseAccountConfirmation.aspx",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Netflix",
-		"url" : "https://support.netflix.com/en/node/407",
-		"difficulty" : "impossible",
-		"notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations."
-	},
-
-	{
-		"name" : "Google",
-		"url" : "https://www.google.com/accounts/Login",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Yahoo!",
-		"url" : "https://edit.yahoo.com/config/delete_user",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Dropbox",
-		"url" : "https://www.dropbox.com/account/delete",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Foursquare",
-		"url" : "https://foursquare.com/delete_me",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "PayPal",
-		"url" : "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Tumblr",
-		"url" : "http://www.tumblr.com/account/delete",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Reddit",
-		"url" : "https://ssl.reddit.com/prefs/delete/",
-		"difficulty" : "easy",
-		"notes" : "Increase your productivity by over 5 times with this one trick they don’t want you to know about!"
-	},
-
-	{
-		"name" : "Lovefilm",
-		"url" : "https://www.lovefilm.com/account/cancel",
-		"difficulty" : "medium",
-		"notes" : "Requires any physical discs to be returned—account will be “cancellation pending” until received."
-	},
-
-	{
-		"name" : "MySpace",
-		"url" : "https://new.myspace.com/settings/profile",
-		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Klout",
- 		"url" : "http://klout.com/#/edit-settings/optout",
- 		"difficulty" : "medium",
- 		"notes" : "It can take up to 180 days for all your data to be removed from the system."
- 	},
- 	
- 	{
- 		"name" : "Amazon",
- 		"url" : "https://www.amazon.com/gp/help/customer/contact-us/ref=cu_cf_email?ie=UTF8&mode=email#a",
- 		"difficulty" : "hard",
- 		"notes" : "To close your account, contact Amazon by email (via this contact form) and request that your account be closed."
- 	},
-
- 	{
- 		"name" : "Droplr",
- 		"url" : "https://droplr.com/settings",
- 		"difficulty" : "easy"
- 	},
- 	
- 	{
- 		"name" : "Spotify",
- 		"url" : "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
- 		"difficulty" : "hard",
- 		"notes" : "Contact Spotify’s customer services through their contact form and request for your account to be closed."
- 	},
- 	
- 	{
- 		"name" : "eBay",
- 		"url" : "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
- 		"difficulty" : "easy",
- 		"notes" : "A few survey questions will be asked prior to account deletion."
- 	},
- 	
- 	{
- 		"name" : "Digg",
- 		"url" : "http://digg.com/contact",
- 		"difficulty" : "hard",
- 		"notes" : "Contact Digg’s customer support and request for your account to be closed."
- 	},
-
- 	{
- 		"name" : "WordPress.com",
- 		"url" : "http://en.support.wordpress.com/deleting-accounts/",
- 		"difficulty" : "impossible",
- 		"notes" : "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account."
- 	},
-
- 	{
- 		"name" : "Flickr",
- 		"url" : "http://www.flickr.com/profile_delete.gne",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Quora",
- 		"url" : "https://www.quora.com/settings/privacy",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Heroku",
- 		"url" : "https://dashboard.heroku.com/account",
- 		"difficulty" : "easy",
- 		"notes": "“Close your account...” link at the bottom of the page."
- 	},
-
- 	{
- 		"name" : "New York Times",
- 		"url" : "https://myaccount.nytimes.com/membercenter/help.html",
- 		"difficulty" : "hard",
- 		"notes" : "Use the form to write to customer services and ask them to close your account."
- 	},
-
- 	{
- 		"name" : "StackOverflow",
- 		"url" : "http://meta.stackoverflow.com/help/deleting-account",
- 		"difficulty" : "hard",
- 		"notes" : "If you haven't posted on the site, it's just one click. Otherwise, edit your 'About Me' bio to say 'please delete me' then contact support."
- 	},
-
- 	{
-
- 		"name" : "Mozilla Persona",
- 		"url" : "https://login.persona.org/",
- 		"difficulty" : "easy",
- 		"notes" : "“Cancel your account” link at the bottom of the page."
- 	},
-
- 	{
- 		"name" : "Etsy",
- 		"url" : "http://www.etsy.com/help/article/53",
- 		"difficulty" : "hard",
- 		"notes" : "You can't have any unpaid Etsy bills or an open non-delivery reports. Your email address will remain on file."
- 	},
- 	
- 	{
-  		"name" : "Steam",
-		"url" : "https://support.steampowered.com/newticket.php",
-		"difficulty" : "impossible",
-  		"notes" : "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
-  	},
-
- 	{
- 		"name" : "Outlook",
- 		"url" : "https://account.live.com/summarypage.aspx",
- 		"difficulty" : "easy"
- 	},
-
-	{
-		"name" : "Glassboard",
-		"url" : "http://glassboard.com/support/",
-		"difficulty" : "hard",
-		"notes" : "Use the support email address to ask them to close your account."
-	},
-
-	{
-		"name" : "TripIt",
-		"url" : "https://www.tripit.com/account/delete",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Goodreads",
-		"url" : "http://www.goodreads.com/user/destroy",
-		"difficulty" : "easy"
-	},
-
-	{
-		"name" : "Starbucks",
-		"url" : "http://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
-		"difficulty" : "impossible",
-		"notes" : "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”."
-	},
-
- 	{
- 		"name" : "Gumroad",
- 		"url" : "https://gumroad.com/",
- 		"difficulty" : "hard",
- 		"notes" : "No page explaining how to delete your account. You have to contact support directly (link at the bottom of the page) and they'll do it for you."
- 	},
- 	
- 	{
- 		"name" : "IFTTT",
- 		"url" : "https://ifttt.com/settings/deactivate",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Pinterest",
- 		"url" : "https://pinterest.com/settings/",
- 		"difficulty" : "impossible",
- 		"notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
- 	},
-
- 	{
- 		"name" : "Disqus",
- 		"url" : "http://disqus.com/pages/dashboard/#account",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Pandora",
- 		"url" : "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
- 		"difficulty" : "hard",
- 		"notes" : "You have to email support from the email associated with your account.  If you do not have access to that, you need to provide the email address, birth year, and zip code on the account."
- 	},
-
- 	{
- 		"name" : "Meetup",
- 		"url" : "http://www.meetup.com/account/remove/",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Craigslist",
- 		"url" : "http://www.craigslist.org/about/help/user_accounts",
- 		"difficulty" : "impossible",
- 		"notes" : "There is no way to delete your account, not even by contacting support."
- 	},
-
- 	{
-		"name" : "GoDaddy",
-		"url" : "http://support.godaddy.com/groups/go-daddy-customers/forum/topic/how-do-i-delete-my-account-with-godaddy/",
-		"difficulty" : "impossible",
-		"notes" : "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile."
+		"name" : "Infirmary Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes": "(AL) MyChart"
 	},
 	
 	{
-		"name" : "SourceForge",
-		"url" : "https://sourceforge.net/account/remove",
-		"difficulty" : "medium",
-		"notes" : "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available."
-	},
-	
-	{
-		"name" : "Scribd",
-		"url" : "http://www.scribd.com/account_settings/preferences",
-		"difficulty" : "easy"
-	},
-	
-	{
- 		"name" : "Evernote",
- 		"url" : "https://www.evernote.com/Deactivate.action",
- 		"difficulty" : "impossible",
- 		"notes" : "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account." 
- 	},
-	
-	{
-		"name" : "Hacker News",
-		"url" : "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
-		"difficulty" : "impossible",
-		"notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address."
+		"name" : "Cedars-Sinai",
+		"url" : "",
+		"format" : "ccda",
+		"notes" : "(CA) MyChart"
 	},
 
 	{
- 		"name" : "Instagram",
- 		"url" : "https://instagram.com/accounts/remove/request",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "IMDb",
- 		"url" : "https://secure.imdb.com/register-imdb/delete",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Path",
- 		"url" : "http://service.path.com/customer/portal/emails/new",
- 		"difficulty" : "hard",
- 		"notes" : "Full account deletion requires you to email them asking them to delete your account manually."
- 	},
-
- 	{
- 		"name" : "Rdio",
- 		"url" : "http://www.rdio.com/settings/advanced/",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Battle.net",
- 		"url" : "https://eu.battle.net/support/en/ticket/submit",
- 		"difficulty" : "hard",
- 		"notes" : "You need to submit a support ticket to have your account deleted. Select 'Battle.net', 'Use a few words to summarize your issue' and say you want it deleted. You may need to follow additional instructions from the Blizzard support team."
- 	},
-
- 	{
- 		"name" : "About.me",
- 		"url" : "https://about.me/account",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Airbnb",
- 		"url" : "https://www.airbnb.com/users/settings",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Box",
- 		"url" : "https://app.box.com/settings",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Forrst",
- 		"url" : "http://forrst.com/settings",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Instapaper",
- 		"url" : "https://www.instapaper.com/user/delete",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "LiveJournal",
- 		"url" : "http://www.livejournal.com/accountstatus.bml",
- 		"difficulty" : "medium",
- 		"notes" : "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it."
- 	},
-
- 	{
- 		"name" : "Mint",
- 		"url" : "https://mint.com",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Pocket",
- 		"url" : "http://getpocket.com/account_deletion/",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Vimeo",
- 		"url" : "https://vimeo.com/settings/goodbye/forever",
- 		"difficulty" : "easy"
- 	},
-
- 	{
- 		"name" : "Artsy",
- 		"url" : "http://artsy.net/user/delete",
- 		"difficulty" : "easy"
- 	},
-
- 	{
-        "name" : "Grooveshark",
-        "url" : "http://grooveshark.com/#!/settings/account",
-        "difficulty" : "easy"
+		"name" : "Children's Hospital Colorado",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "(CO) MyChart"
 	},
 
 	{
-    	"name" : "Pushover",
-    	"url" : "https://pushover.net/settings/delete_account",
-    	"difficulty" : "easy"
-    },
-
-    {
-    	"name" : "NewsBlur",
-    	"url" : "https://www.newsblur.com/profile/delete_account",
-    	"difficulty" : "easy"
-    },
-
-    {
-    	"name" : "Vine",
-    	"url" : "https://support.twitter.com/forms/vine",
-    	"difficulty" : "hard",
-    	"notes" : "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form."
-    },
-
-    {
-    	"name" : "Strava",
-    	"url" : "https://www.strava.com/settings/privacy",
-    	"difficulty" : "medium",
-    	"notes" : "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account."
-    },
-
-    {
-    	"name" : "Rainforest QA",
-    	"url" : "https://app.rainforestqa.com/settings",
-    	"difficulty" : "easy",
-    	"notes" : "Login, go to the settings page and click 'I want to delete my account'."
-    },
-
-    {
-		"name" : "Twitch",
-		"url" : "http://www.twitch.tv/user/close_account",
-		"difficulty" : "easy"
-    },
-
-    {
-		"name" : "Gumtree",
-		"url" : "https://my.gumtree.com/manage/details/deactivate",
-		"difficulty" : "easy"
-	},
-	
-	{
-		"name" : "500px",
-		"url" : "https://500px.com/settings",
-		"difficulty" : "easy"
+		"name" : "Kaiser Permanente",
+		"url" : "https://healthy.kaiserpermanente.org/health/care/consumer/my-health-manager",
+		"format" : "none",
+		"notes" : "MyChart"
 	},
 
 	{
-	  	"name" : "Khan Academy",
-	  	"url" : "https://www.khanacademy.org/settings",
-	  	"difficulty" : "easy"
+		"name" : "Infirmary Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	},
 
 	{
-	  	"name" : "Duolingo",
-	  	"url" : "http://www.duolingo.com/settings/deactivate",
-	  	"difficulty" : "easy"
+		"name" : "Singing River Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	},
 
 	{
-		"name": "Fitocracy",
-		"url": "https://www.fitocracy.com/home/",
-		"difficulty":"hard",
-		"notes":"Send support a request to requests@fitocracy.com and they'll mark your account for deletion"
+		"name" : "Providence Health & Services Alaska",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	},
 
 	{
-		"name": "Daily Mile",
-		"url": "http://www.dailymile.com/account/settings/edit",
-		"difficulty":"easy",
-		"notes":"Edit your account and select \"remove my account\"."
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	},
 
 	{
-		"name" : "Coursera",
-		"url" : "https://www.coursera.org/about/contact",
-		"difficulty" : "hard",
-		"notes" : "Contact support and request they delete your account."
+		"name" : "PeaceHealth",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: Epic PatientConnection"
 	},
 
 	{
-		"name" : "Delicious",
-		"url" : "https://delicious.com/settings/deactivate",
-		"difficulty" : "easy"
-	},
-	
-	{
-		"name" : "Xing",
-		"url" : "https://www.xing.com/app/user?op=cancel;sid=0.bc7191",
-		"difficulty" : "easy"
-	},
-	
-	{
-		"name" : "OpenID",
-		"url" : "https://www.myopenid.com/delete",
-		"difficulty" : "impossible",
-		"notes" : "Although it seems the account is deleted, you can reactivate so likely the data has not been deleted at all."
-	},
-	
-	{
-		"name" : "Zoho",
-		"url" : "https://accounts.zoho.com/u/h#setting/closeaccount",
-		"difficulty" : "easy"
-	},
-	
-	{
-		"name" : "Geni",
-		"url" : "http://www.geni.com/account_settings",
-		"difficulty" : "medium",
-		"notes" : "Delete any of the information you would like removed from the site. Then select 'Account Settings' and 'Close Account'"
-	},
-	
-	{
-		"name" : "Netlog",
-		"url" : "http://en.netlog.com/go/login",
-		"difficulty" : "easy",
-		"notes" : "Select 'settings', then 'account', then 'delete'."
-	},
-	
-	{
-		"name" : "Hi5",
-		"url" : "http://www.tagged.com/account_cancel.html",
-		"difficulty" : "easy"
-	},
-	
-	{
-		"name" : "Last.fm",
-		"url" : "http://www.lastfm.de/settings/account",
-		"difficulty" : "easy",
-		"notes" : "May take up to 7 days to delete your data."
-	},
-	
-	{
-		"name" : "Feedly",
-		"url" : "https://getsatisfaction.com/feedly/topics/how_do_i_delete_my_feedly_account",
-		"difficulty" : "hard",
-		"notes" : "Email customer support to request deletion."
-	},
-	
-	{
-		"name" : "Shutterfly",
-		"url" : "http://www.shutterfly.com/about/contact_details.jsp",
-		"difficulty" : "hard",
-		"notes" : "Contact customers services by email or live chat and request deletion."
-	},
-	
-	{
-		"name" : "EA Origin",
-		"url" : "https://help.ea.com/en/contact-us/ask",
-		"difficulty" : "hard",
-		"notes" : "Contact customer services to request deletion. If you're outside the US this must be by phone."
-	},
-	
-	{
-		"name" : "Yelp",
-		"url" : "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
-		"difficulty" : "easy"
-	},
-	
-	{
-		"name" : "Plenty of Fish",
-		"url" : "http://www.pof.com/deleteaccount.aspx",
-		"difficulty" : "easy",
-		"notes" : "Fill out the deletion form"
-	},
-	
-	{
-		"name" : "Code School",
-		"url" : "http://help.codeschool.com/kb/codeschool-faqs/account-questions",
-		"difficulty" : "medium",
-		"notes" : "Start a private discussion with them and they will 'take care of it'."
-	},
-	
-	{
-		"name" : "Yatado",
-		"url" : "http://about.yatedo.com/manage-your-digital-id/",
-		"difficulty" : "medium",
-		"notes" : "You must request deletion of your Yatado data <em>before</em> deleting the related social account."
-	},
-	
-	{
-		"name" : "Pixoona",
-		"url" : "http://www.pixoona.com/dashboard#user/delete",
-		"difficulty" : "easy"
-	},
-	
-	{
-		"name" : "Freenode",
-		"url" : "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
-		"difficulty" : "easy",
-		"notes" : "/msg NickServ DROP nick password"
+		"name" : "Baptist Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	},
 
 	{
-		"name" : "CodeAcademy",
-		"url" : "http://help.codecademy.com/customer/portal/articles/416872",
-		"difficulty" : "hard",
-		"notes": "For security reasons, we will need to verify that these requests have come from the email address that's on your Codecademy account."
+		"name" : "Trinity Mother Frances",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	},
 
 	{
-		"name" : "Grindr",
-		"url" : "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
-		"difficulty" : "medium",
-		"notes" : "You can remove your profile and chat history from within the app or you can email support with your UDID."
-	},
-	
-	{
-    	"name" : "LibraryThing",
-    	"url" : "http://www.librarything.de/editprofile/change",
-		"difficulty" : "easy"
+		"name" : "UAMS",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	},
 
 	{
-		"name" : "ImageShack",
-		"url" : "http://imageshack.us/prefs/",
-		"difficulty" : "easy"
+		"name" : "East Valley Primary Care Physicians",
+		"url" : "https://mycw.eclinicalweb.com/evp/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "Patient portal software: eClinicalWeb"
 	},
-	
+
 	{
-		"name" : "Dribbble",
-		"url" : "http://dribbble.com/account",
-		"difficulty" : "easy"
+		"name" : "John C. Lincoln Physician Network",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Maricopa Integrated Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Saguaro Physicans",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Yuma Regional Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cedars-Sinai",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Loma Linda University Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MemorialCare Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "The Parkinson's Institute and Clinical Center",
+		"url" : "https://mycw11.eclinicalweb.com/portal313/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "Patient portal software: eClinicalWeb"
+	},
+
+	{
+		"name" : "Providence Health & Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Rady Children's Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Renown Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Riverside Medical Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sansum Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Santa Clara Valley Health & Hospital System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Stanford Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sutter Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Talbert Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UC Davis Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UC San Diego Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UCSF",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "One Medical Group",
+		"url" : "https://www.onemedical.com/",
+		"format" : "text",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Advanced Family Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Hospital Colorado",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Colorodo Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Westminster Medical Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Yale New Haven Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "myPennMedicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Nemours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Hospital of Philadelphia",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Lee Memorial Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Martin Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Memorial Healthcare System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Nemours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Tampa General Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Grady",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Main Street Internal Medicine and Pediatrics",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Piedmont Healthcare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Hawaii Pacific Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Primary Health Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Luke's",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Utah Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Associates in Internal Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Comunity Health Network",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cadence Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Carle",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Hospital of Wisconsin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Community Healthcare System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Deaconess Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Dean Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Dreyer Medical Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "DuPage Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Edward Hospital & Health Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Franciscan Alliance",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Loyola Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Mercy Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "North Shore Unviersity Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Northwestern Medical Faculty Foundation",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "OSF HealthCare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Provena Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Resurrection Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Rockford Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Rush",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Specialty Phsyicians of Illinois",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "SSM Medical Groups",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Weil Foot & Ankle Institute",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wildwood Family Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Arnett Physicians",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Catholic Health Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cincinnati Children's",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Community Health Network",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Community Healthcare System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Deaconess Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Edward Hospital & Health Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Franciscan Alliance",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Indiana University Health Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Loyola Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Norton Healthcare/Kosair Children's Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Owensboro medical health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Parkview Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Premier Health Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Specialty Physicians of Illinois",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Elizabeth Healthcare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UC (University of Cincinnati) Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Physicians",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Gundersen Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "McFarland Clinic PC",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Mercy Cedar Rapids",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sanford Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Francis Hospital & Health Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Iowa Hospitals & Clinics",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wheaton Franciscan Healthcare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "College Park Family Care Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Stormon-Vail Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Catholic Health Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cincinnati Children's",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Deaconess Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "King's Daughters Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UC (University of Cincinnati) Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Norton Healthcare/Kosair Children's Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Owensboro Medical Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Premier Health Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Elizabeth Healthcare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Unviersity of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Baton Rouge Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "LSU Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochsner",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Our Lady of the Lake Phsyician Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Singing River Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Elizabeth Physicians",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Trinity Mother Frances Hospitals and Clinics",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Atrius Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cambridge Health Alliance",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Reliant Medical Group/Atrius Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Riber Bend Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Anne Arundel Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Endocrine and Diabetes Associates",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Johns Hopkins Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Mercy",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Poolesville Family Practice",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Agnes Healthcare/Seton Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MaineHealth",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Thirlby Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Beaumont",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Bronson",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Catholic Health Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Covenant HealthCare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Franciscan Alliance",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Henry Ford Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Hurley Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Lakeland HealthCare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Metro Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "My Aspirus",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Bellin Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "U of M (University of Michigan)",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "OSF HealthCare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "South Haven Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sparrow",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Theda Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Allina Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Altru",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Broadway Family Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Buffalo Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "CentraCare Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Douglas County Hospital/Alexandria Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Essentia Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Fairview",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "FirstLight Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Glencoe Regional Health Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Grand Itasca Clinic & Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Gundersen Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "HealthPartners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Hennepin County Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Hutchinson Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Mayo Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "North Memorial",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Park Nicollet",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Rice Memorial Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sanford Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Tri-County Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "United Family Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "U of M (University of Minnesota) Physicians",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Hattiesburg Clinic/ForrestHealth",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochsner",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Singing River Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "U of M (University of Mississippi) Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "SSM Medical Groups",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Francis Hospital & Health Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Women's Care Consultants",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Providence Health & Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Utah Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Duke Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Eagle Physicians",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Novant Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sentara",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of North Carolina Chapel Hill",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Vidant Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wake Forest Baptist Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Altru",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Essentia Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sanford Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Physicians",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Dartmouth-Hitchcock",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Elliot Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Hospital of Philadelphia",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cooper Unviersity Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Joseph's Healthcare System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "myPennMedicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Nemours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cleveland Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Renown Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Utah Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Abbydek Family Medical Practice",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Buffalo Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Guthrie",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "HousingWorks",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Lutheran Family Health Centers",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Institute for Family Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Mount Sinai",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Open Door Family Medical Centers",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Rochester General Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Rochester Medical Center/Strong Memorial Hospital/Highland Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Weill Cornell",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Akron Children's Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Catholic Health Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Christ Hospital Health Network",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cincinnati Children's",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cleveland Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Genesis HealthCare System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Kettering Health Network",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "King's Daughters Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MetroHealth",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UC (University of Cincinnati) Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Nationwide children's",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Parkview Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Pioneer Physicians Network",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Premier Health Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Elizabeth Healthcare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "TriHealth",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wexner Medical Center (OSU)",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Affordable Quality Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sanford Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Anthony",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Texas Health Resources",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Trinity Mother Frances Hospitals and Clinics",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Asante",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Legacy Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Providence Health & Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Kadlec",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Oregon Health & Science University",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Peace Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Salem Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sanford Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Luke's",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sutter Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Altoona Family Physicians/Williamsburg Family Practice",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Hospital of Philadelphia",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Guthrie",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Geisinger Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Lancaster General Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "myPennMedicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Nemours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Reading Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UPMC HealthTrak",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Womens Health and Wellness",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MUSC (Medical Unviersity of South Carolina) Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Novant Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Roper St. Francis Physician Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sanford Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Smyrna Pulmonary and Sleep Associates",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Amarillo Medical Specialists LLP",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Austin Regional Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Baylor Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Chouteau",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Frusher Internal Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Harris County Hospital District",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "HealthTexas Medical Group",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "JPS (John Peter Smith) Hospital",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Kelsey-Seybold",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Parkland",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Scott & White Healthcare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Texas Children's",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Texas Health Resources",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Trinity Mother Frances Hospitals and Clinics",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UTMB Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Southwestern Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MountainStar Healthcare/Health One",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Utah Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Carilion Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Greater Prince William Community Health Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Novant Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Sentara",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wake Forest Baptist Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Dartmouth-Hitchcock",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Franciscan",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Legacy Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MultiCare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Providence Health & Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Kadlec",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Oregon Health & Science University",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Overlake Medical Clinics",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Peace Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Pioneer Family Practice",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "The Polyclinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Swedish",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "The Everett Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "The Vancouver clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UW (University of Washington) Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UW (University of Washington) Valley Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wenatchee Valley Medical Center",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Access Community Health Centers",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Allina Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Children's Hospital of Wisconsin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Dean Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Edward Hospital & Health Services",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Essentia Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Froedtert & Medical College of Wisconsin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Group Health Cooperative",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Gundersen Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Loyola Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Mercy Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Meriter Community Connect Partners",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Monroe Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Aspirus",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Bellin Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Ochin",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "ProHealth Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Rockford Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "St. Mary's/St. Vincent/St. Nicholas/Prevea Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Theda Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "United Family Medicine",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "UW (University of Wisconsin) Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wheaton Franciscan Healthcare",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wildwood Family Clinic",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "MyBonSecours",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Virginia Health System",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Wake Forest Baptist Health",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "WVU (West Virginia University) Hospitas and Unviersity Health Associates",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "Cheyenne Regional",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
+	},
+
+	{
+		"name" : "University of Utah Health Care",
+		"url" : "",
+		"format" : "unknown",
+		"notes" : "Patient portal software: MyChart"
 	}
 	
 ]

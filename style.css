@@ -134,19 +134,23 @@ header h1 span {
 	line-height: 1;
 }
 
-.site-block.easy .site-header {
+.site-block.bluebutton .site-header {
+	background-color: #A6A6CA;
+	border: 1px solid #717296;
+}
+.site-block.ccda .site-header {
 	background-color: #7BAC7B;
 	border: 1px solid #5d895d;
 }
-.site-block.medium .site-header {
+.site-block.text .site-header {
 	background-color: #E8C674;
 	border: 1px solid #c5a65c;
 }
-.site-block.hard .site-header {
+.site-block.none .site-header {
 	background-color: #CF5A5A;
 	border: 1px solid #ac4949;
 }
-.site-block.impossible .site-header {	
+.site-block.unknown .site-header {	
 	background-color: #2b2b2b;
 	border: 1px solid black;
 }
@@ -172,7 +176,7 @@ header h1 span {
 	text-decoration: none;
 }
 
-.site-block .site-difficulty {
+.site-block .site-format {
 	background-color: #EAEBED;
 	border: 1px solid #BFC6CC;
 	border-top: 0;
@@ -357,8 +361,11 @@ header h1 span {
 	margin: 5px 0;
 }
 
-.green, .yellow, .red, .black { font-weight: bold; }
+.blue, .green, .yellow, .red, .black { font-weight: bold; }
 
+.info-container li .blue {
+	color: #A6A6CA;
+}
 .info-container li .green {
 	color: #7bac7b;
 }

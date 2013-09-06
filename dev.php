@@ -9,7 +9,7 @@ usort($sites, function($a, $b) {
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Just Delete Me | A directory of direct links to delete your account from web services.</title>
+	<title>Health Record Me | A directory of direct links to download your health record.</title>
 	<meta charset="UTF-8">
 	<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -53,8 +53,8 @@ usort($sites, function($a, $b) {
 	<div id="fb-root"></div>
 
 	<header>
-		<h1>just<span>delete</span>.me</h1>
-		<p class="tagline">A directory of direct links to delete your account from web services.</p>
+		<h1>health<span>record</span>.me</h1>
+		<p class="tagline">A directory of direct links to download your health record.</p>
 	</header>
 
 	<div id="test">
@@ -72,18 +72,18 @@ usort($sites, function($a, $b) {
 
 			<!-- // FIRST FOR EACH -->
 
-			<?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->difficulty; ?>">
+			<?php foreach ($sites as $site) : ?><section class="site-block <?php echo $site->format; ?>">
 					<a class="site-header" href="<?php echo $site->url; ?>">
 						<?php echo $site->name; ?>
 					</a>
-					<p class="site-difficulty">
-						Difficulty: <?php echo $site->difficulty; ?>
+					<p class="site-format">
+						Format: <?php echo $site->format; ?>
 					</p>
 					<?php if (isset($site->notes)) : ?>
 						<div class="tooltip-content">
 							<?php echo $site->notes; ?>	
 						</div>
-						<a href="#" class="tooltip-toggle contains-info">Show Info...</a>
+						<a href="#" class="tooltip-toggle contains-info">Show Steps...</a>
 					<?php else : ?>
 						<p class="tooltip-toggle">No Info Available</p>
 					<?php endif; ?>
@@ -96,31 +96,32 @@ usort($sites, function($a, $b) {
 
 			<div class="info-block-half">
 				<h2>What is this?</h2>
-				<p>Many companies use <a href="http://darkpatterns.org/">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDelete.me aims to be a directory of urls to enable you to easily delete your account from web services.</p>
-				<p>Got a site you think should be added? <a href="http://github.com/rmlewisuk/justdelete.me">Fork the project GitHub</a> or <A HREF="mailto:&#115;&#117;&#098;&#109;&#105;&#116;&#064;&#106;&#117;&#115;&#116;&#100;&#101;&#108;&#101;&#116;&#101;&#046;&#109;&#101;?Subject=JustDelete.me%3A%20Site%20suggestion&amp;Body=Site%20name%3A%20%0AURL/Link%3A%20%0ADifficulty%3A%20%0ANotes%20%28optional%29%3A">Submit a site</a>.</p>
+				<p>Health records made available to patients by health care providers are often difficult or impossible to download. HealthRecord.me aims to be a directory of links to enable you to easily download your health record from your healthcare provider(s).</p>
+				<p>Got a provider you think should be added? <a href="https://github.com/thetylerhayes/healthrecord.me">Fork the project on GitHub</a> or <A HREF="mailto:tyler@stayinyourprime.com">email Tyler</a>.</p>
 				<ul>
-					<li><a href="http://robblewis.me/just-delete-me?utm_source=JustDeleteMe&amp;utm_medium=link&amp;utm_campaign=Just+Delete+Me" target="_blank">Read the announcement blog post &raquo;</a></li>
-					<li><a href="http://robblewis.me/24-hours-of-just-delete-me/" target="_blank">See the first-day stats &raquo;</a></li>
+					<li><a href="https://hackpad.com/Can-you-download-your-health-record-DN76Z4LXgnB" target="_blank">Check out the original crowdsourced hackpad &raquo;</a></li>
+					<li><a href="http://chartbeat.com" target="_blank">See current site traffic &raquo;</a></li>
 				</ul>
 			</div><div class="info-block-half">
 				<h2>Guide</h2>
-				<p>The links above are colour-coded to indicate the difficulty level of account deletion:</p>
+				<p>The links above are color-coded to indicate not just the file format of health record but also the difficulty in downloading it:</p>
 				<ul>
-					<li><span class="green">Green:</span> Simple process</li>
-					<li><span class="yellow">Yellow:</span> Some extra steps involved</li>
-					<li><span class="red">Red:</span> Cannot be fully deleted without contacting customer services</li>
-					<li><span class="black">Black:</span> Cannot be deleted</li>
+					<li><span class="blue">Blue:</span> <strong>Blue Button</strong>. Easy to download and read. Fully transmittable between providers and apps. <a href="http://en.wikipedia.org/wiki/The_Blue_Button">Learn more &raquo;</a></li>
+					<li><span class="green">Green:</span> <strong>CCDA</strong>. Easy to moderately easy to download and read. <a href="http://en.wikipedia.org/wiki/Clinical_Document_Architecture">Learn more &raquo;</a></li>
+					<li><span class="yellow">Yellow:</span> <strong>Human-readable text or PDF</strong>. Moderately easy to moderately difficult to download and read.</li>
+					<li><span class="red">Red:</span> <strong>None</strong>. Unable to download or, if download is available, format is not human-readable.</li>
+					<li><span class="black">Black:</span> <strong>Unknown</strong>. Help us add information to the list.</li>
 				</ul>
-			</div>			
+			</div>	
 			
 			<footer>
-				<span>Made by <a href="http://robblewis.me">Robb Lewis</a> | Designed by <a href="http://edpoole.me">Ed Poole</a> | Fork on <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a></span>
+				<span>Project code originally written by <a href="http://robblewis.me">Robb Lewis</a> | Designed by <a href="http://edpoole.me">Ed Poole</a> | This site forked by from <a href="http://github.com/rmlewisuk/justdelete.me">GitHub</a> by <a href="http://madebytyler.com">Tyler Hayes</a></span>
 				<div class="share-buttons" id="share buttons">
 				<!-- Twitter -->
-					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://justdelete.me">Tweet</a>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://healthrecord.me">Tweet</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 				<!-- Facebook -->
-					<div class="fb-like" data-href="http://justdelete.me" data-width="450" data-colorscheme="dark" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+					<div class="fb-like" data-href="http://healthrecord.me" data-width="450" data-colorscheme="dark" data-layout="button_count" data-show-faces="false" data-send="false"></div>
 
 				</div>
 			</footer>
