@@ -83,7 +83,7 @@ usort($sites, function($a, $b) {
 						<div class="tooltip-content">
 							<?php echo $site->notes; ?>	
 						</div>
-						<a href="#" class="tooltip-toggle contains-info">Show Steps...</a>
+						<a href="#" class="tooltip-toggle contains-info">Show Info...</a>
 					<?php else : ?>
 						<p class="tooltip-toggle">No Info Available</p>
 					<?php endif; ?>

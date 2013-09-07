@@ -4,28 +4,28 @@
 		"name" : "Aetna",
 		"url" : "https://member.aetna.com/appConfig/login/login.fcc",
 		"format" : "bluebutton",
-		"notes" : "Patient portal software: proprietary"
+		"notes" : "proprietary"
 	},
 
 	{
 		"name" : "TriCare",
 		"url" : "https://www.tricareonline.com/portal/page/portal/TricareOnline/Portal",
 		"format" : "bluebutton",
-		"notes" : "Patient portal software: proprietary"
+		"notes" : "proprietary"
 	},
 
 	{
 		"name" : "Veterans Administration",
 		"url" : "http://%20https//www.myhealth.va.gov/index.html",
 		"format" : "bluebutton",
-		"notes" : "Patient portal software: proprietary"
+		"notes" : "proprietary"
 	},
 
 	{
 		"name" : "Cerner",
 		"url" : "https://cernerhealth.com/",
 		"format" : "ccda",
-		"notes" : "Patient portal software: proprietary"
+		"notes" : "proprietary"
 	},
 
 	{
@@ -60,2478 +60,2478 @@
 		"name" : "Infirmary Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Singing River Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Providence Health & Services Alaska",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "PeaceHealth",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: Epic PatientConnection"
+		"notes" : "Epic PatientConnection"
 	},
 
 	{
 		"name" : "Baptist Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Trinity Mother Frances",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UAMS",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "East Valley Primary Care Physicians",
 		"url" : "https://mycw.eclinicalweb.com/evp/jsp/100mp/login.jsp",
 		"format" : "unknown",
-		"notes" : "Patient portal software: eClinicalWeb"
+		"notes" : "eClinicalWeb"
 	},
 
 	{
 		"name" : "John C. Lincoln Physician Network",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Maricopa Integrated Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Saguaro Physicans",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Yuma Regional Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cedars-Sinai",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Loma Linda University Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MemorialCare Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "The Parkinson's Institute and Clinical Center",
 		"url" : "https://mycw11.eclinicalweb.com/portal313/jsp/100mp/login.jsp",
 		"format" : "unknown",
-		"notes" : "Patient portal software: eClinicalWeb"
+		"notes" : "eClinicalWeb"
 	},
 
 	{
 		"name" : "Providence Health & Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Rady Children's Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Renown Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Riverside Medical Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sansum Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Santa Clara Valley Health & Hospital System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Stanford Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sutter Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Talbert Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UC Davis Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UC San Diego Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UCSF",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "One Medical Group",
 		"url" : "https://www.onemedical.com/",
 		"format" : "text",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Advanced Family Health",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"url" : "https://mycw24.eclinicalweb.com/portal2105/jsp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
 		"name" : "Children's Hospital Colorado",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Colorodo Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Westminster Medical Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Yale New Haven Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "myPennMedicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Nemours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital of Philadelphia",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Lee Memorial Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Martin Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Memorial Healthcare System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Nemours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Tampa General Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Grady",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Main Street Internal Medicine and Pediatrics",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Piedmont Healthcare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Hawaii Pacific Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Primary Health Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Luke's",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Utah Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Associates in Internal Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Comunity Health Network",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cadence Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Carle",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital of Wisconsin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Community Healthcare System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Deaconess Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Dean Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Dreyer Medical Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "DuPage Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Edward Hospital & Health Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Franciscan Alliance",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Loyola Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Mercy Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "North Shore Unviersity Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Northwestern Medical Faculty Foundation",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "OSF HealthCare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Provena Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Resurrection Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Rockford Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Rush",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Specialty Phsyicians of Illinois",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "SSM Medical Groups",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Weil Foot & Ankle Institute",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wildwood Family Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Arnett Physicians",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Catholic Health Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cincinnati Children's",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Community Health Network",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Community Healthcare System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Deaconess Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Edward Hospital & Health Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Franciscan Alliance",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Indiana University Health Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Loyola Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Norton Healthcare/Kosair Children's Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Owensboro medical health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Parkview Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Premier Health Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Specialty Physicians of Illinois",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Elizabeth Healthcare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UC (University of Cincinnati) Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Physicians",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Gundersen Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "McFarland Clinic PC",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Mercy Cedar Rapids",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sanford Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Francis Hospital & Health Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Iowa Hospitals & Clinics",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wheaton Franciscan Healthcare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "College Park Family Care Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Stormon-Vail Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Catholic Health Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cincinnati Children's",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Deaconess Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "King's Daughters Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UC (University of Cincinnati) Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Norton Healthcare/Kosair Children's Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Owensboro Medical Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Premier Health Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Elizabeth Healthcare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Unviersity of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Baton Rouge Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "LSU Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochsner",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Our Lady of the Lake Phsyician Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Singing River Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Elizabeth Physicians",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Trinity Mother Frances Hospitals and Clinics",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Atrius Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cambridge Health Alliance",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Reliant Medical Group/Atrius Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Riber Bend Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Anne Arundel Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Endocrine and Diabetes Associates",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Johns Hopkins Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Mercy",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Poolesville Family Practice",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Agnes Healthcare/Seton Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MaineHealth",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Thirlby Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Beaumont",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Bronson",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Catholic Health Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Covenant HealthCare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Franciscan Alliance",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Henry Ford Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Hurley Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Lakeland HealthCare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Metro Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "My Aspirus",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Bellin Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "U of M (University of Michigan)",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "OSF HealthCare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "South Haven Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sparrow",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Theda Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Allina Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Altru",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Broadway Family Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Buffalo Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "CentraCare Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Douglas County Hospital/Alexandria Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Essentia Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Fairview",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "FirstLight Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Glencoe Regional Health Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Grand Itasca Clinic & Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Gundersen Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "HealthPartners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Hennepin County Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Hutchinson Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Mayo Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "North Memorial",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Park Nicollet",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Rice Memorial Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sanford Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Tri-County Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "United Family Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "U of M (University of Minnesota) Physicians",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Hattiesburg Clinic/ForrestHealth",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochsner",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Singing River Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "U of M (University of Mississippi) Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "SSM Medical Groups",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Francis Hospital & Health Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Women's Care Consultants",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Providence Health & Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Utah Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Duke Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Eagle Physicians",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Novant Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sentara",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of North Carolina Chapel Hill",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Vidant Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wake Forest Baptist Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Altru",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Essentia Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sanford Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Physicians",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Dartmouth-Hitchcock",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Elliot Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital of Philadelphia",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cooper Unviersity Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Joseph's Healthcare System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "myPennMedicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Nemours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cleveland Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Renown Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Utah Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Abbydek Family Medical Practice",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"url" : "https://mycw17.eclinicalweb.com/portal1049/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
 		"name" : "Buffalo Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Guthrie",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "HousingWorks",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Lutheran Family Health Centers",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Institute for Family Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Mount Sinai",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Open Door Family Medical Centers",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Rochester General Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Rochester Medical Center/Strong Memorial Hospital/Highland Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Weill Cornell",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Akron Children's Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Catholic Health Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Christ Hospital Health Network",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cincinnati Children's",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cleveland Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Genesis HealthCare System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Kettering Health Network",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "King's Daughters Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MetroHealth",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UC (University of Cincinnati) Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Nationwide children's",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Parkview Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Pioneer Physicians Network",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Premier Health Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Elizabeth Healthcare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "TriHealth",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wexner Medical Center (OSU)",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Affordable Quality Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sanford Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Anthony",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Texas Health Resources",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Trinity Mother Frances Hospitals and Clinics",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Asante",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Legacy Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Providence Health & Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Kadlec",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Oregon Health & Science University",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Peace Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Salem Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sanford Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Luke's",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sutter Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Altoona Family Physicians/Williamsburg Family Practice",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital of Philadelphia",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Guthrie",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Geisinger Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Lancaster General Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "myPennMedicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Nemours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Reading Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UPMC HealthTrak",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Womens Health and Wellness",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MUSC (Medical Unviersity of South Carolina) Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Novant Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Roper St. Francis Physician Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sanford Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Smyrna Pulmonary and Sleep Associates",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Amarillo Medical Specialists LLP",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Austin Regional Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Baylor Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Chouteau",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Frusher Internal Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Harris County Hospital District",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "HealthTexas Medical Group",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "JPS (John Peter Smith) Hospital",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Kelsey-Seybold",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Parkland",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Scott & White Healthcare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Texas Children's",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Texas Health Resources",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Trinity Mother Frances Hospitals and Clinics",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UTMB Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Southwestern Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MountainStar Healthcare/Health One",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Utah Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Carilion Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Greater Prince William Community Health Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Novant Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sentara",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wake Forest Baptist Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Dartmouth-Hitchcock",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Franciscan",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Legacy Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MultiCare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Providence Health & Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Kadlec",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Oregon Health & Science University",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Overlake Medical Clinics",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Peace Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Pioneer Family Practice",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "The Polyclinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Swedish",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "The Everett Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "The Vancouver clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UW (University of Washington) Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UW (University of Washington) Valley Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wenatchee Valley Medical Center",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Access Community Health Centers",
-		"url" : "",
+		"url" : "https://accesshealthmychart.org/mychart/",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Allina Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital of Wisconsin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Dean Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Edward Hospital & Health Services",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Essentia Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Froedtert & Medical College of Wisconsin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Group Health Cooperative",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Gundersen Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Loyola Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Mercy Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Meriter Community Connect Partners",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Monroe Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Aspirus",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Bellin Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "ProHealth Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Rockford Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "St. Mary's/St. Vincent/St. Nicholas/Prevea Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Theda Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "United Family Medicine",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UW (University of Wisconsin) Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wheaton Franciscan Healthcare",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wildwood Family Clinic",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MyBonSecours",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Virginia Health System",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Wake Forest Baptist Health",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "WVU (West Virginia University) Hospitas and Unviersity Health Associates",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cheyenne Regional",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Utah Health Care",
 		"url" : "",
 		"format" : "ccda",
-		"notes" : "Patient portal software: MyChart"
+		"notes" : "MyChart"
 	}
 	
 ]
