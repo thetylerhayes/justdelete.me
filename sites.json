@@ -270,7 +270,7 @@
 		"name" : "One Medical Group",
 		"url" : "https://www.onemedical.com/",
 		"format" : "text",
-		"notes" : "MyChart"
+		"notes" : "Proprietary system. PDF format."
 	},
 
 	{
@@ -296,9 +296,9 @@
 
 	{
 		"name" : "Westminster Medical Clinic",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "http://www.westminstermedicalclinic.com/Patient_Resources/patient-portal",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -373,9 +373,9 @@
 
 	{
 		"name" : "Main Street Internal Medicine and Pediatrics",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw9.eclinicalweb.com/portal203/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -401,9 +401,9 @@
 
 	{
 		"name" : "Primary Health Medical Group",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw3.eclinicalweb.com/phmg/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -422,9 +422,9 @@
 
 	{
 		"name" : "Associates in Internal Medicine",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw12.eclinicalweb.com/portal441/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -583,9 +583,9 @@
 
 	{
 		"name" : "Weil Foot & Ankle Institute",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "http://www.weil4feet.com/portal/",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -653,9 +653,9 @@
 
 	{
 		"name" : "Indiana University Health Center",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw20.eclinicalweb.com/portal1408/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -772,9 +772,9 @@
 
 	{
 		"name" : "College Park Family Care Center",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw37.eclinicalweb.com/portal4062/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -947,9 +947,9 @@
 
 	{
 		"name" : "Endocrine and Diabetes Associates",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw.eclinicalweb.com/pat/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -975,9 +975,9 @@
 
 	{
 		"name" : "Poolesville Family Practice",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw5.eclinicalweb.com/pool/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -989,9 +989,9 @@
 
 	{
 		"name" : "St. Agnes Healthcare/Seton Medical Group",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw16.eclinicalweb.com/portal2523/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1003,9 +1003,9 @@
 
 	{
 		"name" : "Thirlby Clinic",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "http://www.thirlbyclinic.com/patient-portal.php",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1171,7 +1171,7 @@
 
 	{
 		"name" : "Fairview",
-		"url" : "",
+		"url" : "http://www.fairview.org/MyChart/index.htm",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -1206,8 +1206,8 @@
 
 	{
 		"name" : "HealthPartners",
-		"url" : "",
-		"format" : "ccda",
+		"url" : "https://www.healthpartners.com/my/home/site/patient",
+		"format" : "none",
 		"notes" : "MyChart"
 	},
 
@@ -1227,9 +1227,9 @@
 
 	{
 		"name" : "Mayo Clinic",
-		"url" : "",
+		"url" : "https://onlineservices.mayoclinic.org/",
 		"format" : "ccda",
-		"notes" : "MyChart"
+		"notes" : "Proprietary system"
 	},
 
 	{
@@ -1241,7 +1241,7 @@
 
 	{
 		"name" : "Park Nicollet",
-		"url" : "",
+		"url" : "https://mychart.parknicollet.com/mychartparknicollet/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -1325,9 +1325,9 @@
 
 	{
 		"name" : "Women's Care Consultants",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://neuportal.eclinicalweb.com/timo/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1360,9 +1360,9 @@
 
 	{
 		"name" : "Eagle Physicians",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw3.eclinicalweb.com/ephy/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1388,9 +1388,9 @@
 
 	{
 		"name" : "University of North Carolina Chapel Hill",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://healthyheels.unc.edu/portal/jsp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1472,9 +1472,9 @@
 
 	{
 		"name" : "Joseph's Healthcare System",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "http://www.stjosephshealth.org/welcome-to-patient-portal",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1549,16 +1549,16 @@
 
 	{
 		"name" : "HousingWorks",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw7.eclinicalweb.com/hwin/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
 		"name" : "Lutheran Family Health Centers",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw24.eclinicalweb.com/portal2024/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1584,9 +1584,9 @@
 
 	{
 		"name" : "Open Door Family Medical Centers",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw5.eclinicalweb.com/odfm/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1710,9 +1710,9 @@
 
 	{
 		"name" : "Pioneer Physicians Network",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "http://www.pioneerphysicians.com/services.asp?id=142&mytitle=Patient+Portal",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1745,9 +1745,9 @@
 
 	{
 		"name" : "Affordable Quality Care",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw2.eclinicalweb.com/afqc/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1857,9 +1857,9 @@
 
 	{
 		"name" : "Altoona Family Physicians/Williamsburg Family Practice",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw.eclinicalweb.com/afp/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1927,16 +1927,16 @@
 
 	{
 		"name" : "Womens Health and Wellness",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw.eclinicalweb.com/whw/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
 		"name" : "University Medicine",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw29.eclinicalweb.com/portal2923/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1962,9 +1962,9 @@
 
 	{
 		"name" : "Roper St. Francis Physician Partners",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw17.eclinicalweb.com/portal1038/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -1997,9 +1997,9 @@
 
 	{
 		"name" : "Smyrna Pulmonary and Sleep Associates",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw11.eclinicalweb.com/portal220/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -2011,9 +2011,9 @@
 
 	{
 		"name" : "Amarillo Medical Specialists LLP",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://neuportal.eclinicalweb.com/amsp/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -2038,17 +2038,17 @@
 	},
 
 	{
-		"name" : "Chouteau",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"name" : "Chouteau, M.D. and Hammer, M.D.",
+		"url" : "https://mycw4.eclinicalweb.com/chmi/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
 		"name" : "Frusher Internal Medicine",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw10.eclinicalweb.com/sher/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -2060,9 +2060,9 @@
 
 	{
 		"name" : "HealthTexas Medical Group",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw18.eclinicalweb.com/portal1146/jsp/100mp/login.jsp",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -2158,9 +2158,9 @@
 
 	{
 		"name" : "Greater Prince William Community Health Center",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "https://mycw13.eclinicalweb.com/portal639/jsp/login.jsp%E2%80%8E",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
@@ -2270,9 +2270,9 @@
 
 	{
 		"name" : "Pioneer Family Practice",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
+		"url" : "http://www.pioneerfamilypractice.com/3.html",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	},
 
 	{
