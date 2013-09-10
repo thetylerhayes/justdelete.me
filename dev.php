@@ -79,7 +79,7 @@ usort($sites, function($a, $b) {
             <div class="info-block-half">
                 <h2>What is this?</h2>
                 <p>Health records made available to patients by health care providers are often difficult or impossible to download. MedicalData.me aims to be a directory of links to enable you to easily download your health record from your healthcare provider(s).</p>
-                <p>Got a provider you think should be added? <a href="https://github.com/thetylerhayes/medicaldata.me">Fork the project on GitHub</a> or <A HREF="mailto:tyler@stayinyourprime.com">email Tyler</a>.</p>
+                <p>Got a provider you think should be added? <a href="https://github.com/thetylerhayes/medicaldata.me">Fork the project on GitHub</a>, <a href="https://github.com/thetylerhayes/medicaldata.me/issues">open an issue</a>, or <A HREF="mailto:tyler@stayinyourprime.com">email Tyler</a>.</p>
                 <ul>
                     <li><a href="https://hackpad.com/Can-you-download-your-health-record-DN76Z4LXgnB" target="_blank">Check out the original crowdsourced hackpad &raquo;</a></li>
                     <li><a href="http://chartbeat.com" target="_blank">See current site traffic &raquo;</a></li>
