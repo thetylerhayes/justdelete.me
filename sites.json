@@ -2532,6 +2532,13 @@
 		"url" : "",
 		"format" : "ccda",
 		"notes" : "MyChart"
+	},
+
+	{
+		"name" : "Oregon State University",
+		"url" : "http://studenthealth.oregonstate.edu/patient-portal",
+		"format" : "unknown",
+		"notes" : "eClinicalWeb"
 	}
 	
 ]
