@@ -30,21 +30,21 @@
 
 	{
 		"name" : "Infirmary Health",
-		"url" : "",
+		"url" : "https://www.myihchart.org",
 		"format" : "ccda",
 		"notes": "(AL) MyChart"
 	},
 	
 	{
 		"name" : "Cedars-Sinai",
-		"url" : "",
+		"url" : "https://patients.mycslink.org/",
 		"format" : "ccda",
 		"notes" : "(CA) MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital Colorado",
-		"url" : "",
+		"url" : "https://mychart.childrenscolorado.org/",
 		"format" : "ccda",
 		"notes" : "(CO) MyChart"
 	},
@@ -57,57 +57,50 @@
 	},
 
 	{
-		"name" : "Infirmary Health",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
 		"name" : "Singing River Health System",
-		"url" : "",
+		"url" : "https://mychart.mysrhs.com",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Providence Health & Services Alaska",
-		"url" : "",
+		"url" : "https://mychartak.providence.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Ochin",
-		"url" : "",
+		"url" : "https://mychart.ochin.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "PeaceHealth",
-		"url" : "",
+		"url" : "https://patientconnection.peacehealth.org",
 		"format" : "ccda",
 		"notes" : "Epic PatientConnection"
 	},
 
 	{
 		"name" : "Baptist Health",
-		"url" : "",
+		"url" : "https://mychart.baptist-health.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Trinity Mother Frances",
-		"url" : "",
+		"url" : "https://mychart.tmfhs.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UAMS",
-		"url" : "",
+		"url" : "https://mychartmobile.uams.edu",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -121,56 +114,42 @@
 
 	{
 		"name" : "John C. Lincoln Physician Network",
-		"url" : "",
+		"url" : "https://mychart.jcl.com",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Maricopa Integrated Health System",
-		"url" : "",
+		"url" : "https://mychart.mihs.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Saguaro Physicans",
-		"url" : "",
+		"url" : "https://mychart.tmcaz.com",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Yuma Regional Medical Center",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
-		"name" : "Cedars-Sinai",
-		"url" : "",
+		"url" : "https://mycare.yumaregional.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Loma Linda University Health System",
-		"url" : "",
+		"url" : "https://mylluhealth.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "MemorialCare Health System",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
-		"name" : "Ochin",
-		"url" : "",
+		"url" : "https://mymemorialcare.memorialcare.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -183,85 +162,85 @@
 	},
 
 	{
-		"name" : "Providence Health & Services",
-		"url" : "",
+		"name" : "Providence Health & Services (Oregon)",
+		"url" : "https://mychartor.providence.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Rady Children's Hospital",
-		"url" : "",
+		"url" : "https://www.mychartatradychildrens.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Renown Health",
-		"url" : "",
+		"url" : "https://mychart.renown.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Riverside Medical Clinic",
-		"url" : "",
+		"url" : "https://myhealthyconnectionmobile.riversidemedicalclinic.com/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sansum Clinic",
-		"url" : "",
+		"url" : "https://mychart.sansumclinic.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Santa Clara Valley Health & Hospital System",
-		"url" : "",
+		"url" : "https://myhealthonline.sccgov.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Stanford Medicine",
-		"url" : "",
+		"url" : "https://myhealth.stanfordmedicine.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Sutter Health",
-		"url" : "",
+		"url" : "https://myhealthonline.sutterhealth.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Talbert Medical Group",
-		"url" : "",
+		"url" : "https://www.tmg4me.com/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UC Davis Health System",
-		"url" : "",
+		"url" : "https://mychart.ucdavis.edu",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UC San Diego Health System",
-		"url" : "",
+		"url" : "https://myucsdchart.ucsd.edu/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "UCSF",
-		"url" : "",
+		"url" : "https://ucsfmychart.ucsfmedicalcenter.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -281,15 +260,8 @@
 	},
 
 	{
-		"name" : "Children's Hospital Colorado",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
 		"name" : "University of Colorodo Health",
-		"url" : "",
+		"url" : "https://mychart.uchealth.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -303,70 +275,63 @@
 
 	{
 		"name" : "Yale New Haven Health",
-		"url" : "",
+		"url" : "https://mychart.ynhhs.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "myPennMedicine",
-		"url" : "",
+		"url" : "https://secure.mypennmedicine.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Nemours",
-		"url" : "",
+		"url" : "https://mynemours.nemours.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital of Philadelphia",
-		"url" : "",
+		"url" : "https://mychart.chop.edu/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Lee Memorial Health System",
-		"url" : "",
+		"url" : "https://mychart.leememorial.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Martin Health",
-		"url" : "",
+		"url" : "https://mychart.martinhealth.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Memorial Healthcare System",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
-		"name" : "Nemours",
-		"url" : "",
+		"url" : "https://mychart.mhs.net",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Tampa General Hospital",
-		"url" : "",
+		"url" : "https://mychart.tgh.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Grady",
-		"url" : "",
+		"url" : "https://mychart.gradyhealth.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -380,21 +345,21 @@
 
 	{
 		"name" : "Piedmont Healthcare",
-		"url" : "",
+		"url" : "https://mychart.piedmont.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University Hospital",
-		"url" : "",
+		"url" : "https://www.mylsuhealth.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Hawaii Pacific Health",
-		"url" : "",
+		"url" : "https://myhealthadvantage.hawaiipacifichealth.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -408,14 +373,14 @@
 
 	{
 		"name" : "St. Luke's",
-		"url" : "",
+		"url" : "https://mychart.slhs.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "University of Utah Health Care",
-		"url" : "",
+		"url" : "https://mychart.med.utah.edu",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -429,119 +394,119 @@
 
 	{
 		"name" : "Comunity Health Network",
-		"url" : "",
+		"url" : "https://mychart.ecommunity.com/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Cadence Health",
-		"url" : "",
+		"url" : "https://mychart.cdh.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Carle",
-		"url" : "",
+		"url" : "https://www.mycarle.com/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Children's Hospital of Wisconsin",
-		"url" : "",
+		"url" : "https://mychart.chw.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Community Healthcare System",
-		"url" : "",
+		"url" : "https://mychart.comhs.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Deaconess Health System",
-		"url" : "",
+		"url" : "https://www.viewmychart.com/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Dean Clinic",
-		"url" : "",
+		"url" : "https://mychart.deancare.com",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Dreyer Medical Clinic",
-		"url" : "",
+		"url" : "https://mychart.dreyermed.com",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "DuPage Medical Group",
-		"url" : "",
+		"url" : "https://mychart.dupagemd.com/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Edward Hospital & Health Services",
-		"url" : "",
+		"url" : "https://mychart.dupagemd.com",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Franciscan Alliance",
-		"url" : "",
+		"url" : "https://mychart.ssfhs.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Loyola Medicine",
-		"url" : "",
+		"url" : "https://myloyola.luhs.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Mercy Health System",
-		"url" : "",
+		"url" : "https://mychart.mercyhealthsystem.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "North Shore Unviersity Health System",
-		"url" : "",
+		"url" : "https://www.northshoreconnect.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Northwestern Medical Faculty Foundation",
-		"url" : "",
+		"url" : "https://secure2.nmff.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "OSF HealthCare",
-		"url" : "",
+		"url" : "https://www.osfmyhealth.org",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
 
 	{
 		"name" : "Provena Medical Group",
-		"url" : "",
+		"url" : "https://mychart.provena.org/",
 		"format" : "ccda",
 		"notes" : "MyChart"
 	},
@@ -1331,13 +1296,6 @@
 	},
 
 	{
-		"name" : "Providence Health & Services",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
 		"name" : "Ochin",
 		"url" : "",
 		"format" : "ccda",
@@ -1793,13 +1751,6 @@
 	},
 
 	{
-		"name" : "Providence Health & Services",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
 		"name" : "Kadlec",
 		"url" : "",
 		"format" : "ccda",
@@ -2221,13 +2172,6 @@
 
 	{
 		"name" : "MultiCare",
-		"url" : "",
-		"format" : "ccda",
-		"notes" : "MyChart"
-	},
-
-	{
-		"name" : "Providence Health & Services",
 		"url" : "",
 		"format" : "ccda",
 		"notes" : "MyChart"
